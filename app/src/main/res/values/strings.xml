@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculate your age</string>
+    <string name="enter_age">Enter age</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculating">Calculate</string>
+    <string name="results">Results</string>
+</resources>
